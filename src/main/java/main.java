@@ -9,12 +9,11 @@ public class main {
 
     public static void main(String[] args) {
         Bulls bulls = new Bulls();
+        List<String> ANSWER = null;
         int score = 0;
 
-        List<String> ANSWER = bulls.generateNumbers();
-
-
         while (true){
+            ANSWER = bulls.generateNumbers();
             List<String> GUESS = bulls.guess();
             score = bulls.getScore(ANSWER, GUESS);
             System.out.println(ANSWER);

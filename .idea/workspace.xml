@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea53ebd-7ced-465c-b971-c7aff479871c" name="Changes" comment="숫자야구게임">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Bulls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Bulls.java" afterDir="false" />
-    </list>
+    <list default="true" id="aea53ebd-7ced-465c-b971-c7aff479871c" name="Changes" comment="숫자야구게임 List는 contains 로 비교**" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658434027849</updated>
-      <workItem from="1658434029650" duration="6240000" />
+      <workItem from="1658434029650" duration="6576000" />
     </task>
     <task id="LOCAL-00001" summary="숫자야구게임">
       <created>1658441757911</created>
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658441757911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="숫자야구게임 List는 contains 로 비교**">
+      <created>1658442228843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658442228843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="숫자야구게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자야구게임" />
+    <MESSAGE value="숫자야구게임 List는 contains 로 비교**" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자야구게임 List는 contains 로 비교**" />
   </component>
 </project>
