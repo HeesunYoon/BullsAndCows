@@ -44,10 +44,8 @@ public class Bulls {
     public int getScore(List<String> generateNumbers, List<String> guess){
         int strikeCount = 0;
 
-        for(int i=0; i < 3; i++){
-            System.out.println(guess.get(i));
-            if(generateNumbers.get(i) == guess.get(i)){
-                System.out.println("맞음");
+        for(int i=0; i < generateNumbers.size(); i++){
+            if(generateNumbers.contains(guess.get(i))){
                 strikeCount += 1;
             }
         }
